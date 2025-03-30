@@ -77,15 +77,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "NLPS Website"
+      icon: "fa-solid fa-bookmark"
+      url: "https://newlambton-p.schools.nsw.gov.au/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/p/New-Lambton-Public-School-P-C-100080500743012/"
 
 defaults:
   # _posts
